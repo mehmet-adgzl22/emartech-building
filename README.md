@@ -14,6 +14,9 @@
  
 </ul>
 
+# Proje Bağlantı Linki
+https://emartech-building.netlify.app/
+
 # Emartech-Building-Proje Gifi
 
 
