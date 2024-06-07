@@ -1,6 +1,6 @@
 # Emartech-Building-Proje Özellikleri
 <ul>
-  <li>Bu projemiz konut satış sitelerinin nasıl yapıldığını anlamamız için yapılmıştır.</li>
+  <li>Bu projemizde bootstrap kullanılarak konut satış siteleri kullanışlı arayüz ile yapılmıştır.</li>
 </ul>
 
 # Projede Kullanılan Diller ve Araçlar
